@@ -30,11 +30,9 @@ The first step was to dat the August 2019 file from NYC CitiBike and change the 
 
 4 Create
 
-![trips-by-gender-by-weekday](https://user-images.githubusercontent.com/98365309/175826086-472aa208-147a-43c5-bec0-70cc56602d08.png)
+
 
 5 Create
-
-![trips-by-weekday-by-gender](https://user-images.githubusercontent.com/98365309/175826102-ba83d42a-b820-4b4c-81be-632138438cc3.png)
 
 
 ## Deliverable 3
